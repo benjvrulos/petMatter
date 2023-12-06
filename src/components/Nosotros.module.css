@@ -1,0 +1,26 @@
+.nosotrosTitle {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.contenedorNosotros {
+  /* CAMBIANDO EL PADDING A LA SECCION*/
+  padding: 2rem 2rem;
+  gap: 2rem;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.caja {
+  box-shadow: 20px 0 20px rgba(0, 0, 0, 0.07);
+  border-radius: 2rem;
+  width: 23rem;
+  height: auto;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  border: 5px solid #e3e1de;
+}
+
+.fontIcon {
+  font-size: 5rem;
+}
